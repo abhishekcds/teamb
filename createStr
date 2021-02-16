@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<stdlib.h>
+struct emp{
+char name[10];
+char id[10];
+char phone[10];
+};
+int main()
+{
+
+}
